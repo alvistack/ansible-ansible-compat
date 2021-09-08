@@ -1,0 +1,5 @@
+python-ansible-compat (100:2.0.4-1) UNRELEASED; urgency=medium
+
+  * https://github.com/ansible-community/ansible-compat/releases/tag/v2.0.4
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Tue, 17 May 2022 10:37:33 +0800
