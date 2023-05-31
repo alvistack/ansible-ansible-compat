@@ -1,14 +1,13 @@
 [build-system]
 requires = [
   "setuptools >= 61.0", # PEP-621
-  "setuptools_scm[toml] >= 7.0.0",
 ]
 build-backend = "setuptools.build_meta"
 
 [project]
 # https://peps.python.org/pep-0621/#readme
 requires-python = ">=3.9"
-dynamic = ["version"]
+version = "4.1.1"
 name = "ansible-compat"
 description = "Ansible compatibility goodies"
 readme = "README.md"
@@ -151,6 +150,3 @@ known-third-party = ["packaging"]
 
 [tool.ruff.per-file-ignores]
 "test/**/*.py" = ["SLF001", "S101", "FBT001"]
-
-[tool.setuptools_scm]
-local_scheme = "no-local-version"
