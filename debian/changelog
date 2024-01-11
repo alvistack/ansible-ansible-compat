@@ -1,0 +1,5 @@
+python-ansible-compat (100:4.0.3-1) UNRELEASED; urgency=medium
+
+  * https://github.com/ansible/ansible-compat/releases/tag/v4.0.3
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Thu, 11 Jan 2024 11:15:56 +0800
