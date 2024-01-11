@@ -1,0 +1,4 @@
+python3-ansible-compat: copyright-without-copyright-notice
+python3-ansible-compat: initial-upload-closes-no-bugs
+python3-ansible-compat: no-manual-page
+python3-ansible-compat: zero-byte-file-in-doc-directory
