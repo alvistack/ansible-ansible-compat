@@ -1,14 +1,13 @@
 [build-system]
 requires = [
   "setuptools >= 65.3.0", # required by pyproject+setuptools_scm integration and editable installs
-  "setuptools_scm[toml] >= 7.0.5" # required for "no-local-version" scheme
 ]
 build-backend = "setuptools.build_meta"
 
 [project]
 # https://peps.python.org/pep-0621/#readme
 requires-python = ">=3.9"
-dynamic = ["version"]
+version = "4.1.11"
 name = "ansible-compat"
 description = "Ansible compatibility goodies"
 readme = "README.md"
@@ -159,7 +158,3 @@ known-third-party = ["packaging"]
 
 [tool.ruff.pydocstyle]
 convention = "pep257"
-
-[tool.setuptools_scm]
-local_scheme = "no-local-version"
-write_to = "src/ansible_compat/_version.py"
