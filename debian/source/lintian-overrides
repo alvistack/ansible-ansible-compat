@@ -1,0 +1,4 @@
+python-ansible-compat source: file-without-copyright-information
+python-ansible-compat source: no-debian-changes
+python-ansible-compat source: source-contains-prebuilt-windows-binary
+python-ansible-compat source: source-package-encodes-python-version
