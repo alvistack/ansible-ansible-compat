@@ -1,0 +1,5 @@
+python-ansible-compat (100:26.3.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/ansible/ansible-compat/releases/tag/v26.3.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Wed, 01 Apr 2026 13:24:01 +0800
